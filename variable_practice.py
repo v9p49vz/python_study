@@ -15,12 +15,11 @@
 # output: "I love foot_ball, chess and Harry Potter"
 
 # Q5:
-# Caculate the value of 55+99 and print the value
+# Calculate the value of 55+99 and print the value
 
 # Q6:
-# caculate the value of 4.5+5.8 and print the value
-
+# Calculate the value of 4.5+5.8 and print the value
 
 
 # Q7:
-# caculcate the value of 24*5.6 and print the value
+# Calculate the value of 24*5.6 and print the value
